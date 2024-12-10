@@ -1,0 +1,26 @@
+h3{
+    font-size: 40px;
+}
+.chat-section{
+    display: none;
+}
+#chat-container{
+    background-color: lightblue;
+    width: 100%;
+    height: 400px;
+    overflow-y: scroll;
+}
+.border{
+    width:80% ;
+}
+.offline-status{
+    color: red;
+}
+.online-status{
+    color: green;
+}
+.current-user{
+    text-align: right;
+    margin: 10px;
+    color: black;
+}
